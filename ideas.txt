@@ -1,3 +1,25 @@
 magic.
 
+protagonist: witch
+antagonists: the enemies (there are plenty of them)
+  * goblins
+  * skeletons
+  * slimes
+  
+  
 
+level up system when you complete wave
+
+= abilities =
+  * fireballs orbiting the player (upgrades at level-up)
+
+
+= weapon types =
+  * melee
+  * ranged
+  * magic
+
+= stats (def. 100%) = 
+  * spd
+  * dmg
+  * atk spd
